@@ -2,7 +2,7 @@
 
 About Me
 
-👋 Hi there! I'm Teh Jun Heng, a Web/Blockchain Developer based in Malaysia 🇲🇾.
+👋 Hi there! I'm Teh Jun Heng, a Full Stack/Smart Contract Developer based in Malaysia 🇲🇾.
 
 💻 Currently learning and working on several blockchain projects.
 
