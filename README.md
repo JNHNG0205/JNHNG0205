@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teh Jun Heng</h1>  
-<h3 align="center">A Full Stack Web3 Developer from Malaysia</h3>  
+<h3 align="center">A Software Engineer and Web3 Developer from Malaysia</h3>  
 
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=jnhng0205&label=Profile%20views&color=0e75b6&style=flat" alt="jnhng0205" />  
