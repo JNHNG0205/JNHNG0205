@@ -6,9 +6,8 @@
 </p>  
 
 - 🔭 I’m currently working on **YumeProof**
-- 🌱 I’m currently learning **Foundry**  
 - 👯 I’m looking to collaborate on **Web3 Projects**  
-- 🤝 I’m looking for help with **Web3 Jobs**  
+- 🤝 I’m looking for help with **Web3 Internship**  
 - 💬 Ask me about **Web3 and Blockchain**  
 - 📫 How to reach me **junhengteh.123@gmail.com**  
 - ⚡ Fun fact **I like cats**  
