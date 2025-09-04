@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=jnhng0205&label=Profile%20views&color=0e75b6&style=flat" alt="jnhng0205" />  
 </p>  
 
-- 🔭 I’m currently working on **YumeProof**
+- 🔭 I’m currently building **YumeProof**
 - 👯 I’m looking to collaborate on **Web3 Projects**  
 - 🤝 I’m looking for help with **Web3 Internship**  
 - 💬 Ask me about **Web3 and Blockchain**  
